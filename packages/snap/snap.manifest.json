@@ -4,10 +4,10 @@
   "proposedName": "Moonstream",
   "repository": {
     "type": "git",
-    "url": "https://github.com/moonstream-to/snap.git"
+    "url": "https://github.com/MetaMask/template-snap-monorepo.git"
   },
   "source": {
-    "shasum": "eyp4riXi/7n5KnQrx5Ns0GvVDqHKihHJDA8L9oOYABM=",
+    "shasum": "xWjoJbz4xhCVlyndKEPGx6rdBH3bAbwoe57Iwk3VLvw=",
     "location": {
       "npm": {
         "filePath": "dist/bundle.js",
