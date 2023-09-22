@@ -1,0 +1,28 @@
+{
+  "version": "0.1.0",
+  "description": "Interface with Moonstream smart contracts and APIs",
+  "proposedName": "Moonstream",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/moonstream-to/snap.git"
+  },
+  "source": {
+    "shasum": "eyp4riXi/7n5KnQrx5Ns0GvVDqHKihHJDA8L9oOYABM=",
+    "location": {
+      "npm": {
+        "filePath": "dist/bundle.js",
+        "iconPath": "images/icon.svg",
+        "packageName": "snap",
+        "registry": "https://registry.npmjs.org/"
+      }
+    }
+  },
+  "initialPermissions": {
+    "snap_dialog": {},
+    "endowment:rpc": {
+      "dapps": true,
+      "snaps": false
+    }
+  },
+  "manifestVersion": "0.1"
+}
